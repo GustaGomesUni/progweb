@@ -1,0 +1,10 @@
+Curso de Engenharia de Software - UniEVANGÉLICA 
+Dev: Gustavo Gomes dos Santos - 2111267O 
+
+Imagine que meu projeto integrador seja semelhante a criar uma atmosfera visualmente estimulante e imersiva. Podemos compará-lo com o que é assistir a um filme no cinema.
+
+frontend é comparável à tela do cinema, onde os espectadores são expostos a recursos visuais e outras pistas visuais. O front-end do projeto integrador é responsável por proporcionar aos usuários uma estimulação visual, assim como a tela do cinema. Pessoas com deficiência auditiva podem jogar com o jogo e receber o estímulo visual necessário, pois ele produz uma interface amigável e envolvente. O frontend cria a interface do jogo e apresenta os componentes visuais de forma atraente e cativante, utilizando tecnologias como HTML, CSS e JavaScript.
+
+Back-end: O back-end pode ser comparado a uma sala de cinema onde todo o gerenciamento e processamento de dados acontece para fornecer aos espectadores uma experiência visual. O back-end do projeto integrador, como a sala de projeção, é responsável por processar e manter os dados necessários para fornecer a estimulação visual correta. Ele gerencia a comunicação do front-end, o processamento de dados visuais e a lógica do jogo. Linguagens de programação como Java, Python, PHP ou Node.js são usadas para criar o back-end, juntamente com estruturas especializadas para processamento visual e interação.
+
+API REST: A API REST é comparável ao roteiro do filme, que fornece ao elenco e à equipe todas as instruções e orientações. A API REST no projeto do integrador especifica as rotas e terminais usados ​​pelo front-end e back-end para comunicação. Ele permite que o front-end solicite ao back-end as informações e estímulos visuais necessários. A API REST garante uma comunicação efetiva e uniforme entre os diversos componentes do projeto, oferecendo as ferramentas e funções necessárias para o correto funcionamento do jogo. Utiliza métodos HTTP e retorna dados em formato JSON, de acordo com as convenções e conceitos da arquitetura REST.
