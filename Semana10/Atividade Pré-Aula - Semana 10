@@ -1,0 +1,20 @@
+Curso de Engenharia de Software - UniEVANGÉLICA 
+Dev: Gustavo Gomes dos Santos - 2111267O 
+
+
+Os métodos de desenvolvimento da Web que usam JavaScript, comumente conhecido como Node.js, como back-end estão se tornando cada vez mais comuns. O JavaScript tem sido tradicionalmente usado principalmente no lado do cliente, ou no navegador, para fornecer interações dinâmicas e práticas em sites da web. No entanto, o JavaScript também é suportado pelo Node.js no lado do servidor, permitindo que você crie aplicativos da Web abrangentes e escaláveis.
+
+Node.js é um ambiente de tempo de execução JavaScript construído no mecanismo V8 encontrado no Google Chrome. Dá aos programadores a capacidade de executar o código JavaScript diretamente no servidor, expandindo o leque de opções para a criação de aplicativos online. Você pode construir servidores web, gerenciar solicitações e respostas HTTP, usar bancos de dados, abrir arquivos e fazer muito mais usando Node.js.
+
+Usar JavaScript tem vários benefícios, incluindo:
+Linguagem uniforme: usando JavaScript tanto no front-end quanto no back-end, os desenvolvedores podem trocar código e informações entre as duas camadas. Isso facilita o processo de desenvolvimento, diminui a curva de aprendizado e facilita o trabalho conjunto das equipes.
+
+Eficiência: Node.js é construído sobre o motor V8, que é conhecido por seu poder e tempo de resposta rápido. É perfeito para aplicativos em tempo real e de alta simultaneidade, pois pode lidar com muitas solicitações simultâneas.
+
+Ecossistema rico: o gerenciador de pacotes npm para Node.js contém um ecossistema considerável de pacotes e módulos. Isso agiliza o processo de desenvolvimento e aumenta a produtividade ao dar aos desenvolvedores acesso a uma grande variedade de recursos e capacidades pré-construídos.
+
+Escalabilidade: Node.js pode efetivamente gerenciar um grande número de conexões simultâneas graças ao seu mecanismo de I/O sem bloqueio. Por conta disso, pode ser utilizado para criar aplicações escaláveis ​​que conseguem gerenciar um aumento considerável no volume de usuários sem sofrer degradação de performance.
+
+Comunidade ativa: a comunidade de desenvolvimento para Node.js está ativa e em expansão. Como resultado, os desenvolvedores sempre podem acessar assistência, documentação e ferramentas para ajudá-los a superar obstáculos e aprimorar suas habilidades.
+
+Mas é crucial lembrar que nem todos os aplicativos funcionam melhor com o uso de JavaScript como back-end. Outras linguagens e frameworks podem ser mais apropriados dependendo dos requisitos do projeto. É fundamental avaliar os requisitos exclusivos do projeto e selecionar a tecnologia que melhor os atenderá.
