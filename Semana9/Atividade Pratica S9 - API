@@ -1,0 +1,9 @@
+GET /api/gpus - recuperar a lista de placas de vídeo
+
+POST /api/gpus - criar uma nova placa de vídeo
+
+GET /api/gpus/{gpu_id} - recuperar informações de uma placa de vídeo específica por ID
+
+PUT /api/gpus/{gpu_id} - atualizar informações de uma placa de vídeo específica por ID
+
+DELETE /api/gpus/{gpu_id} - excluir uma placa de vídeo específica por ID
